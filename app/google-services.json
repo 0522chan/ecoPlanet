@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759600567491",
+    "project_id": "eco-planet-3af7b",
+    "storage_bucket": "eco-planet-3af7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759600567491:android:ebc76d07e6f0c2ed80fe76",
+        "android_client_info": {
+          "package_name": "com.example.ecovillage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759600567491-1vtra7nmkg4sh58alhbmrvou9khqeha5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecovillage",
+            "certificate_hash": "f11c099cb77591f282b9d876334b484c7f1db9e1"
+          }
+        },
+        {
+          "client_id": "759600567491-rnt2l0dhhamlg45rfrhmce0h5bcg88lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc9aNx79-mOvcZY7IK4wkIVPjQQ9si7kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759600567491-rnt2l0dhhamlg45rfrhmce0h5bcg88lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
